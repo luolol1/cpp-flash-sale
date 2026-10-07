@@ -1,0 +1,8 @@
+/build/
+/.env
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.log
+
